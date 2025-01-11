@@ -4,7 +4,7 @@
 
 -- we use supprt vector machine algorithm.
 
--- In supervised algorithm we feed data to Machine model and then Machine Learning model learns from data and respective labels.
+-- It is supervised algorithm we feed data to Machine learning model and then Machine Learning model learns from data and respective labels.
 
 -- In this case we train our model with several medical information like BMI,Glucose level along with a person having diabetes or not.
 
